@@ -1,0 +1,12 @@
+{
+  "name": "zenn-content",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "new:article": "zenn new:article",
+    "preview": "zenn preview"
+  },
+  "devDependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
