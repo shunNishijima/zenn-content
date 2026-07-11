@@ -2,7 +2,7 @@
 title: "AIに勝手な参考書を勧めさせない — カリキュラム準拠でLLM出力を縛った受験学習アプリの設計"
 emoji: "📚"
 type: "tech"
-topics: ["Nextjs", "OpenAI", "個人開発", "TypeScript", "AI"]
+topics: ["nextjs", "openai", "typescript", "ai", "個人開発"]
 published: true
 ---
 
